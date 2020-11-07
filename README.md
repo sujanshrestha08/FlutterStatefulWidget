@@ -1,2 +1,4 @@
 # FlutterStatefulWidget
-Basic concept of Flutter Stateful Widget implementation.
+Basic concept of how Flutter Stateful Widget works.
+
+And how dropdown button works.
